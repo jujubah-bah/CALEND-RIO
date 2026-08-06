@@ -1,6 +1,6 @@
 # CALENDÁRIO SEMANAL
 Grupo: Larissa e Julia
-Integrantes:Larissa e Julia
+
 
 
 mostrarSugestao:serve para mostrar as sugestões do que fazer durante o seu dia.
